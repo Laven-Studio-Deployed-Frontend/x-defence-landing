@@ -26384,7 +26384,6 @@ select.form-control {
         display: flex;
         margin: 0;
         width: 100%;
-        bottom: 40px;
         background-color: #05A823;
         padding: 10px
     }
